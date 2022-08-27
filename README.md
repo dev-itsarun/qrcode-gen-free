@@ -17,5 +17,9 @@ See it in Action : [Click Here](http://qrcode-gen-free.pages.dev "Click Here")
 - [Svelte-qr](https://github.com/JonasJs/svelte-qrcode "Svelte-qr")
 
 =======================================
+###### Inspired From
+https://qrcontact.danawoodman.com/create
+
+=======================================
 ###### Hosted @ Cloudflare
 -------------
